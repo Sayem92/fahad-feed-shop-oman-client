@@ -10,7 +10,7 @@ const Footer = () => {
                     <div className="flex justify-center space-x-3 lg:justify-start">
                         <div className="flex items-center justify-center w-12 h-12 rounded-full bg-violet-400">
 
-                            <img className='w-14 h-14 rounded-lg' src='https://i.ibb.co/F4mFf53/shop-pic.jpg' alt="sell phone bd" />
+                            <img className='w-14 h-14 rounded-lg' src='https://i.ibb.co/GkfBzhb/shop-main-pic.jpg' alt="sell phone bd" />
 
                         </div>
                         <span className="self-center text-2xl font-semibold">Fahad Feed shop</span>

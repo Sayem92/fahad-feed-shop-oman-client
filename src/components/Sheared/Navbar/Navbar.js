@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <img
             className="w-0 h-0 md:w-14 md:h-14 rounded-lg invisible md:visible"
-            src='https://i.ibb.co/F4mFf53/shop-pic.jpg'
+            src='https://i.ibb.co/GkfBzhb/shop-main-pic.jpg'
             alt="sell phone bd"
           />
 
@@ -143,7 +143,7 @@ const Navbar = () => {
                     >
                       <img
                         className="w-14 h-14 rounded-lg"
-                        src='https://i.ibb.co/F4mFf53/shop-pic.jpg'
+                        src='https://i.ibb.co/GkfBzhb/shop-main-pic.jpg'
                         alt="sell phone bd"
                       />
 

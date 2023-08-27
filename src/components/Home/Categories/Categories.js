@@ -12,7 +12,7 @@ const Categories = () => {
   const categoryData = [
     {
       categoryName: "Cow, Goat and Horse Feed",
-      categoryImage: "https://i.ibb.co/zh0L65S/cow-goat-horse.jpg",
+      categoryImage: "https://i.ibb.co/jVNrHfM/horse-goat-cow.webp",
     },
     {
       categoryName: "Chickens, Pigeon Feed",
